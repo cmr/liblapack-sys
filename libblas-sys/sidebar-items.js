@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["dgemm_","http://www.netlib.org/lapack/explore-html/d7/d2b/dgemm_8f.html"],["dgemv_","http://www.netlib.org/lapack/explore-html/dc/da8/dgemv_8f.html"]]});

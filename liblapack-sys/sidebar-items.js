@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["dsyev_","http://www.netlib.org/lapack/explore-html/dd/d4c/dsyev_8f.html"]]});
